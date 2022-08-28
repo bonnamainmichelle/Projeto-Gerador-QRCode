@@ -19,3 +19,9 @@ html {
     rgba(180, 0, 251, 1) 100%
   );
 }
+
+body {
+  height: 100%;
+  display: grid;
+  place-items: center;
+}
